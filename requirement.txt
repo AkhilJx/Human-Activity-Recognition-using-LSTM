@@ -1,0 +1,8 @@
+Python --> V3.9
+
+* mediapipe --> V0.9.01
+* OpenCV --> V4.6.0.66
+* Tensorflow --> V2.11.0
+* scikit-learn --> V1.2.0 
+* matplotlib --> V3.6.2
+* numpy --> V1.23.5
