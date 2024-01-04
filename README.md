@@ -32,3 +32,7 @@ Future Improvements:
 The repository can be extended by incorporating additional activities for recognition, enhancing the dataset for training, and optimizing the model architecture for better performance.
 
 Feel free to explore, modify, and contribute to this project. If you encounter issues or have suggestions, please open an issue on GitHub.
+
+Sample Output:
+![image](https://github.com/AkhilJx/Human-Activity-Recognition-using-LSTM/assets/78065413/88b824bc-a4f7-4bea-8d14-5d44a4a3353d)
+
